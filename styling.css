@@ -1,0 +1,21 @@
+.background-image {
+  background-image: url('img/interests/home.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+  section {
+    padding-top: 5rem;
+  }
+  .large-text {
+    font-size: 20px; /* Adjust the font size as needed */
+    line-height: 1.5; /* Adjust the line height as needed */
+  }
+  
+
+  #home {
+    height: 100vh;
+  }
+
+  
+  
